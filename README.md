@@ -43,3 +43,6 @@ Repositório	|🏰 Sala de jogo online	|Onde o código fica hospedado e disponí
 |Issues|🐞 Relatar bugs ou missões pendentes|Lista problemas ou tarefas que precisam ser resolvidas.|
 |Fork|🧬 Clonar o jogo para criar sua versão|Cria uma cópia do projeto para modificar como quiser.|
 |README.md|	📜 Manual do jogo|Explica o que é o projeto, como jogar (usar), e quem criou.|
+
+🧙‍♀️
+Você é um desenvolvedor aventureiro. Com Git, você salva suas fases localmente. Com GitHub, você entra no servidor, mostra seu progresso, recebe ajuda de outros jogadores e até participa de guildas de código (organizações). Cada pull request é como pedir para o mestre aprovar sua nova habilidade no jogo.
