@@ -46,3 +46,18 @@ Repositório	|🏰 Sala de jogo online	|Onde o código fica hospedado e disponí
 
 🧙‍♀️
 Você é um desenvolvedor aventureiro. Com Git, você salva suas fases localmente. Com GitHub, você entra no servidor, mostra seu progresso, recebe ajuda de outros jogadores e até participa de guildas de código (organizações). Cada pull request é como pedir para o mestre aprovar sua nova habilidade no jogo.
+
+## 🧩 Linha do Tempo de Commits
+
+```mermaid
+timeline
+    title Saga do Repositório GitHub Certification
+    2025-07-01 : 🆕 git init — Começo da jornada
+    2025-07-02 : 📦 git add README.md — Equipando o inventário
+    2025-07-03 : 💾 git commit -m "feat: adiciona tabela estilo RPG"
+    2025-07-04 : 🌱 git branch "exp-github" — Criando rota alternativa
+    2025-07-05 : 🔀 git merge "exp-github" — Unindo forças
+    2025-07-06 : 🚀 git push — Subindo para o servidor mágico
+    2025-07-07 : 🐞 issue aberta — Bug na tabela de comandos
+    2025-07-08 : 🤝 pull request — Revisão colaborativa
+    2025-07-09 : 🎉 Versão 1.0 lançada — Missão concluída!
