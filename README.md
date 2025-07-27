@@ -24,3 +24,22 @@ git init	|🆕 Criar novo jogo/salvar progresso|Começa uma nova campanha — se
 |git log|📜 Ver o histórico de missões concluídas|Mostra o que foi modificado ou aindaprecisa salvar.|
 |git status|🧭 Ver o mapa atual da missão|Mostra o que foi modificado ou ainda precisa salvar.|
 |
+
+
+# **GITHUB:**
+
+>## ☁️ GitHub como um Servidor Online de RPG
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+### **🎮 GitHub como um videogame**
+
+#### *É como o modo online multiplayer — onde você compartilha, colabora e mostra suas conquistas para o mundo.*:
+
+|Elemento do GitHub	|Equivalente em Videogame 🎮	|Explicação Curta|
+|-----------------|------------------------------|-----------------|
+Repositório	|🏰 Sala de jogo online	|Onde o código fica hospedado e disponível para todos.|
+|git push|🚀 Enviar progresso para o servidor|Publica suas fases salvas no Git para o GitHub.|
+|Pull Request|🤝 Solicitar ajuda ou revisão de missão|Pede para outros jogadores revisarem ou melhorarem seu código.|
+|Issues|🐞 Relatar bugs ou missões pendentes|Lista problemas ou tarefas que precisam ser resolvidas.|
+|Fork|🧬 Clonar o jogo para criar sua versão|Cria uma cópia do projeto para modificar como quiser.|
+|README.md|	📜 Manual do jogo|Explica o que é o projeto, como jogar (usar), e quem criou.|
